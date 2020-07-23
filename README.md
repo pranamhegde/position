@@ -1,2 +1,2 @@
 # position
-https://github.com/usneek/courseera-test.git
+ https://usneek.github.io/position/
